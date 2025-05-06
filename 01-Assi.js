@@ -7,6 +7,7 @@ var typeOfAge = typeof age;
 console.log("Age: ", age, " and it's data type is: ", typeOfAge);
 
  
+
 console.log("==========================");
 
 var isMarried = false;
